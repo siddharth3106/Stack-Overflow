@@ -1,3 +1,6 @@
+Click this link to open my project hosted on Netlify 
+https://stack-overflow-siddharth.netlify.app/
+
 # `npm i`
 use the above command on the client side to install dependencies
 
